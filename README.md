@@ -1,4 +1,4 @@
-# Hi, my name is Hamlet and I'm developer!
+# Hi!
 
 ## Now:
 - **🔭 I’m currently working on [watcha](https://github.com/CyberNetRunner/watcha)**
