@@ -1,4 +1,4 @@
-# Hi!
+# Hello, my name is Hamlet (@CyberNetRunner)! I'm junior back-end developer
 
 **__Now:__**
 - **_🌱 I’m currently learning [GoLang](https://golang.org), [Node.js](https://nodejs.org/)_**
