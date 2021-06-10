@@ -1,6 +1,6 @@
 # :octocat: Hello, my name is Hamlet!
 
-## I'm a junior back-end developer, have 19 y.o. and I'm from Russia. I have been coding since 2016.
+## I'm a junior back-end developer, have 19 y.o. and I'm from Russia. \n I have been coding since 2016.
  
 ### Hard skills: 
  - Python
