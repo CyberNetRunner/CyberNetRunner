@@ -13,5 +13,5 @@
 **__Now:__**
  **I’m currently learning [GoLang](https://golang.org) and TDD**
 
-**_My 🔗 [resume](https://drive.google.com/file/d/1My8qxthBFJ88mzSvR5qHuj-mXQLmengX/view?usp=sharing),_
+**_My 🔗 [resume](https://drive.google.com/file/d/1bOEwMMO9attdwY03x210qMLiSJC98uh3/view?usp=sharing),_
 _[Linkedin](https://www.linkedin.com/in/hamletavetikyn/)_**
